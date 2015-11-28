@@ -1,0 +1,700 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"Local	*time.Location ν"
+			],
+			[
+				"rf",
+				"RFC3339	 Ɩ"
+			],
+			[
+				"create",
+				"createdTime"
+			],
+			[
+				"dige",
+				"digests"
+			],
+			[
+				"p",
+				"Panicln	 ƒ"
+			],
+			[
+				"Newe",
+				"NewEqualStringAttributeComparison"
+			],
+			[
+				"table",
+				"tableDes2"
+			],
+			[
+				"pl",
+				"Println	 ƒ"
+			],
+			[
+				"Des",
+				"DescribeTable"
+			],
+			[
+				"Cre",
+				"CreatedDatetime"
+			],
+			[
+				"Crea",
+				"CreatedDatetime"
+			],
+			[
+				"Cr",
+				"CreatedDatetime"
+			],
+			[
+				"Put",
+				"PutDigest"
+			],
+			[
+				"Problem",
+				"ProblemSolved"
+			],
+			[
+				"Key",
+				"KeyType=HASH"
+			],
+			[
+				"Err",
+				"Error"
+			],
+			[
+				"fata",
+				"Fatalln	 ƒ"
+			],
+			[
+				"java",
+				"java-libraries"
+			],
+			[
+				"leaders",
+				"leadersJsonStr"
+			],
+			[
+				"cre",
+				"createdDatetime"
+			],
+			[
+				"dao",
+				"daoOrig"
+			],
+			[
+				"hel",
+				"helloWorld"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"New",
+				"NewV1"
+			],
+			[
+				"json",
+				"jsonObject"
+			],
+			[
+				"Pri",
+				"Println	 ƒ"
+			],
+			[
+				"enco",
+				"encodedData"
+			],
+			[
+				"c",
+				"Close	error ƒ"
+			],
+			[
+				"str",
+				"strconv"
+			],
+			[
+				"User",
+				"UserName"
+			],
+			[
+				"su",
+				"submissions	[]Submission ν"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"response",
+				"responseObject"
+			],
+			[
+				"reps",
+				"responseObject"
+			],
+			[
+				"print",
+				"Println	 ƒ"
+			],
+			[
+				"pr",
+				"Println	 ƒ"
+			],
+			[
+				"probl",
+				"problemid"
+			],
+			[
+				"lea",
+				"learderboard"
+			],
+			[
+				"res",
+				"responseObject"
+			],
+			[
+				"n",
+				"NewEncoder	*json.Encoder ƒ"
+			],
+			[
+				"U",
+				"Username"
+			],
+			[
+				"Proble",
+				"ProblemId"
+			],
+			[
+				"Pro",
+				"ProblemId"
+			],
+			[
+				"Getl",
+				"GetAllUniqueDescSuccessSubmissionUsers"
+			],
+			[
+				"pro",
+				"problemId"
+			],
+			[
+				"Lb",
+				"LeaderBoard	struct ʈ"
+			],
+			[
+				"Submid",
+				"SubmissionDate"
+			],
+			[
+				"submission",
+				"submissionDate"
+			],
+			[
+				"re",
+				"Request	struct ʈ"
+			],
+			[
+				"hand",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"leftT",
+				"leftTable"
+			],
+			[
+				"righ",
+				"rightLines"
+			],
+			[
+				"left",
+				"leftLines"
+			],
+			[
+				"r",
+				"responseObject"
+			],
+			[
+				"diff",
+				"diffText"
+			],
+			[
+				"requ",
+				"requestDiffId"
+			],
+			[
+				"all",
+				"alignedLines"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"al",
+				"alignedLines"
+			],
+			[
+				"content",
+				"contentTableName"
+			],
+			[
+				"tra",
+				"translateContentResultToContentObject"
+			],
+			[
+				"Con",
+				"contentDao"
+			],
+			[
+				"cont",
+				"content_dao"
+			],
+			[
+				"call",
+				"callback"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"gosublime:",
+				"GoSublime: Usage & Tips"
+			],
+			[
+				"gosublime",
+				"GoSublime: Browse Files"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 200.0,
+		"history":
+		[
+			"echo $TMPDIR"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/xiaoyushi/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/xiaoyushi/resume2015/resume2015/resume2015.tex",
+		"/Users/xiaoyushi/resume2015/resume15/compile.sh",
+		"/Users/xiaoyushi/resume2015/resume15/resume2015.tex",
+		"/Users/xiaoyushi/resume2015/resume15/resume2015.pdf",
+		"/Users/xiaoyushi/Downloads/06022015/日记",
+		"/Users/xiaoyushi/workspace/brain-code-jam/python/SendRequestToGoogle.py",
+		"/Users/xiaoyushi/workspace/brain-code-jam/python/hello.py",
+		"/Users/xiaoyushi/Downloads/femdom88/PG16_01",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/html/js/ace.js",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/html/js/controller.js",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/html/partials/problems.html",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/html/partials/about.html",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/leaderboard/leaderTablePopulator.go",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/leaderboard/leaderboardDdl",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/leaderboard/leaderboard",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/judge-worker-service/handlers.go",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/html/index.html",
+		"/Users/xiaoyushi/Desktop/temp",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/main.go",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/importexport/ddl.sql",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/deploy/scripts/export_awe_keys",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/deploy/scripts/change_permissions",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/deploy/scripts/install_dependencies",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/importexport/Makefile",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/java-sandbox/sandbox-javac.c",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/java-sandbox/sandbox-java.c",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/dao.go",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/judge-worker-service/test_config.json",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/importexport/create_tables.sh",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/importexport/main.go",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/auth.go",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/judge-worker-service/Makefile",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/Makefile",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/judge-worker-service/prod_config.json",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/main.go",
+		"/Users/xiaoyushi/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/ddl.sql",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/html/partials/leaderboard.html",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/ddl",
+		"/Users/xiaoyushi/Desktop/baozi-related/baozi-algorithm-notes",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/html/test.html",
+		"/Users/xiaoyushi/workspace/brain-code-jam/go/gotutorial.go",
+		"/Users/xiaoyushi/workspace/brain-code-jam/go/package main",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/website/website",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/compiler.go",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/validator.go",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/java-sandbox/sandbox-javac",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/suid-sandbox/sandbox.c",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/jeffreysjudge",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/seccomp-sandbox/sandbox.c",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/java-sandbox/Makefile",
+		"/Users/xiaoyushi/baoziwebGit/BaoziWebsite/faq.html",
+		"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge/handlers.go",
+		"/Users/xiaoyushi/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/xiaoyushi/baoziwebGit/BaoziWebsite/about.html",
+		"/Users/xiaoyushi/baoziwebGit/BaoziWebsite/students.html",
+		"/Users/xiaoyushi/baoziwebGit/BaoziWebsite/video.html",
+		"/Users/xiaoyushi/baoziwebGit/BaoziWebsite/css/video.css",
+		"/Users/xiaoyushi/baoziwebGit/BaoziWebsite/testmap.html",
+		"/Users/xiaoyushi/baoziwebGit/BaoziWebsite/index.html",
+		"/Users/xiaoyushi/Desktop/index-backup",
+		"/Users/xiaoyushi/hackthon/express_example/aws_config.json",
+		"/Users/xiaoyushi/hackthon/express_example/DiffDoc/frontend.js",
+		"/Users/xiaoyushi/Desktop/nodejsCode/mymodule.js",
+		"/Users/xiaoyushi/Desktop/nodejsCode/MyModuleMain.js",
+		"/Users/xiaoyushi/hackthon/express_example/routes/users.js",
+		"/Users/xiaoyushi/hackthon/express_example/dao/content_dao.js",
+		"/Users/xiaoyushi/Desktop/nodejsCode/blocking.js",
+		"/Users/xiaoyushi/Desktop/nodejsCode/filteredLs.js",
+		"/Users/xiaoyushi/Desktop/nodejsCode/MyFirstAsyncIO.js",
+		"/Users/xiaoyushi/Desktop/nodejsCode/helloWorld.js",
+		"/Users/xiaoyushi/Desktop/nodejsCode/MyFirstIO.js",
+		"/Users/xiaoyushi/Desktop/nodejsCode/babySteps.js",
+		"/Users/xiaoyushi/Desktop/nodejsCode/MyModule.js",
+		"/Users/xiaoyushi/bootstrap/js/bootstrap.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"temp",
+			"current file",
+			"",
+			"/Users/xiaoyushi/go/src/github.com/shixiaoyu/jeffreysjudge",
+			"/Users/xiaoyushi/baoziwebGit/BaoziWebsite"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"*",
+			"replace",
+			"iterator",
+			"distance",
+			"index",
+			"]",
+			"[",
+			"\"",
+			"quote",
+			"\"",
+			"....\"\n",
+			"AAAAACCCCC",
+			"CCCCCCAAAA",
+			"interval is 0.0013353877760657422\nindex is 15\nindex is 17\nindex is 32\nindex is 5\nindex is 30\nindex is 23\nindex is 0\nindex is 25\nindex is 22\nindex is 4\nindex is 17\nindex is 9\nindex is 17\nindex is 4\nindex is 23\nindex is 16\nindex is 31\nindex is 29\nindex is 22\nindex is 16\nindex is 35\nindex is 17\nindex is 18\nindex is 1\nindex is 26\nindex is 39\nindex is 26\nindex is 11\nindex is 36\nindex is 0\nindex is 5\nindex is 24\nindex is 38\nindex is 24\nindex is 37\nindex is 0\nindex is 30\nindex is 24\nindex is 27",
+			".Q..\n...Q\nQ...\n..Q.",
+			"time",
+			"t",
+			"now",
+			"time",
+			"for",
+			"getLeaderBoardHandler",
+			"leader",
+			"getProblemsFromAttribute",
+			"Active-Id-index",
+			"NewEqualStringAttributeComparison",
+			"query",
+			"getproblems",
+			"getreply",
+			"--table-name",
+			"reply",
+			"Dao",
+			"PutReply",
+			"Reply",
+			"putitem",
+			"leaderboardController",
+			"leaderboard",
+			"getLeaderBoardHandler",
+			"GetSortedLeadersResponse",
+			"Double.parseDouble",
+			"sd",
+			"add",
+			"\"",
+			"System.out.println(",
+			"unique pa",
+			"leader",
+			"GetSortedLeaders",
+			"getLeaderBoardHandler",
+			"horsemanship",
+			"breakage",
+			"region",
+			"PutDigest",
+			"daoOrig",
+			"PutDigest",
+			"getlea",
+			"get",
+			"GetSortedLeaders",
+			"getlea",
+			"PutSubmissions",
+			"GetLeaders",
+			"EnvAuth",
+			"aws",
+			"getSubmissionsFromAttribute",
+			"exportToDb",
+			"\n	",
+			"google",
+			"order ",
+			"leaderboardController",
+			"leaderboard",
+			"leaders",
+			"leaderboardController",
+			"GetLeaders",
+			"son",
+			"json",
+			"Leader",
+			"leader",
+			"Leader",
+			"LeaderBoard",
+			"leaders",
+			"Leader",
+			"time",
+			"Leader",
+			"LeaderBoard",
+			"GetSortedLeaderBoard",
+			"getLeaderBoardHandler",
+			"digest",
+			"GetSortedLeaderBoard",
+			"GetProblemResponse",
+			">>>>",
+			"GetLeaders",
+			"PutDigest",
+			"GetLeaders",
+			"GetLeaders\nGetLeaders",
+			"GetLeaders",
+			"helloWorld",
+			"binary tree",
+			"subsequence",
+			"triangle",
+			"triagnle",
+			"div",
+			"	\n",
+			"LeaderBoard",
+			"GetAllUniqueDescSuccessSubmissionUsers",
+			"getleaderboardhandler",
+			"marshal",
+			"unmarshal",
+			"encodedRequest",
+			"marshal",
+			"go-sqlite3",
+			"ValidateResponse",
+			"PutSubmissions",
+			"validatehandler",
+			"getsubmission",
+			"GetSubmissionRequest",
+			"getSubmissionHandler",
+			"console.log",
+			"GetLeaderBoardResponse",
+			"GetAllUniqueDescSuccessSubmissionUsers",
+			"getLeaderBoardHandler",
+			"problemsController",
+			"leaderboardController",
+			"problemsController",
+			"leaderboard",
+			"for ",
+			"uuid",
+			"LeaderBoard",
+			"NewDao",
+			"dao",
+			"getproblems"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"}",
+			"{",
+			"ins.isNumber",
+			"**",
+			"sa",
+			"'",
+			"shabi",
+			"p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 50.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dao",
+				"website/dao.go"
+			],
+			[
+				"con",
+				"website/html/js/controller.js"
+			],
+			[
+				"handl",
+				"judge-worker-service/handlers.go"
+			],
+			[
+				"",
+				"~/Desktop/nodejsCode/MyFirstIO.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "getsort",
+		"selected_items":
+		[
+			[
+				"getsort",
+				"GetSortedLeaders"
+			],
+			[
+				"han",
+				"handlers"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
